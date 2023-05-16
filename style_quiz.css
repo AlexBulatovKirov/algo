@@ -1,0 +1,10 @@
+body {
+  color: #e72424
+}
+
+.one {
+  padding: 20px;
+  background-color: #370458;
+  border-radius: 150px;
+  color: green;
+}
